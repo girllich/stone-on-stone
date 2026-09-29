@@ -10,7 +10,7 @@ It was made by a human working with AI models, stone on stone:
 - **Music** by Suno v6 and @girllich
 - **Animation** by @girllich and Claude Opus 5.5
 
-**Watch it on YouTube: [https://youtu.be/WBFF3Rf9TwM](https://youtu.be/WBFF3Rf9TwM)**
+**Watch it on YouTube: [https://youtu.be/WBFF3Rf9TwM](https://youtu.be/WBFF3Rf9TwM)** · Web page: [girllich.github.io/stone-on-stone](https://girllich.github.io/stone-on-stone/)
 
 ![The human (ochre) and the AI (light) shake hands among the stars](stills/06.jpg)
 
