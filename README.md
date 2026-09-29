@@ -10,12 +10,15 @@ It was made by a human working with AI models, stone on stone:
 - **Music** by Suno v6 and @girllich
 - **Animation** by @girllich and Claude Opus 5.5
 
+**Watch it on YouTube: [https://youtu.be/WBFF3Rf9TwM](https://youtu.be/WBFF3Rf9TwM)**
+
 ![The human (ochre) and the AI (light) shake hands among the stars](stills/06.jpg)
 
 ## What's here
 
 | File | What it is |
 |---|---|
+| [YouTube](https://youtu.be/WBFF3Rf9TwM) | The video, with lyric and described-video captions |
 | [`stone-on-stone-720p.webm`](stone-on-stone-720p.webm) | The video (3:45, 720p, VP9/Opus) with embedded lyric and described-video subtitle tracks |
 | [`lyrics.txt`](lyrics.txt) | The lyrics |
 | [`described-video.md`](described-video.md) | The full audio-description track as readable text: every shot, what is drawn, and on which word |
